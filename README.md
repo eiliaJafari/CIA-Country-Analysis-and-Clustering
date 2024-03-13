@@ -5,4 +5,4 @@
 
 ## Goal: 
 
-### Gain insights into similarities between countries and regions of the world by experimenting with different cluster amounts. What do these clusters represent?
+### Using K-means clustering, I will gain insights into similarities between countries and regions of the world by experimenting with different cluster amounts. What do these clusters represent?
